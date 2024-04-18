@@ -39,7 +39,7 @@ def main():
         st.write("")
 
     with col2:
-        st.image("./assets/tablet.png",width=800, caption="Tablet Fiyat Tahmin")
+        st.image("tablet.png",width=800, caption="Tablet Fiyat Tahmin")
 
     with col3:
         st.write("")
